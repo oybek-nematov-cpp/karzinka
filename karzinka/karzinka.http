@@ -1,0 +1,6 @@
+@karzinka_HostAddress = http://localhost:5038
+
+GET {{karzinka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
